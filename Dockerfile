@@ -1,3 +1,3 @@
-FROM nginx:latest
+FROM ghcr.io/jquad-group/nginx:latest
 
 
